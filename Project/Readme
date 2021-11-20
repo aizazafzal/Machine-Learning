@@ -1,0 +1,1 @@
+This folder contains the project which was to implement a convolutional neural network inspired by AlexNet architecture for classifying images from CIFAR 10 dataset using 8 layered network which employed different techniques to increase the training, validation, and testing accuracy to over 80%.
